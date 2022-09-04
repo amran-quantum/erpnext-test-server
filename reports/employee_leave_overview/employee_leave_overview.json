@@ -1,0 +1,38 @@
+{
+    "add_total_row": 0,
+    "columns": [],
+    "creation": "2021-09-13 12:04:17.657020",
+    "disable_prepared_report": 0,
+    "disabled": 0,
+    "docstatus": 0,
+    "doctype": "Report",
+    "filters": [],
+    "idx": 0,
+    "is_standard": "Yes",
+    "modified": "2021-09-13 12:04:17.657020",
+    "modified_by": "Administrator",
+    "module": "HCG Custom",
+    "name": "Employee Leave Overview",
+    "owner": "Administrator",
+    "prepared_report": 0,
+    "ref_doctype": "Leave Application",
+    "report_name": "Employee Leave Overview",
+    "report_type": "Script Report",
+    "roles": [
+     {
+      "role": "Employee"
+     },
+     {
+      "role": "Leave Approver"
+     },
+     {
+      "role": "HR Manager"
+     },
+     {
+      "role": "HR User"
+     },
+     {
+      "role": "Employee Self Service"
+     }
+    ]
+   }
